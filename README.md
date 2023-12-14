@@ -54,10 +54,6 @@ print(f'Predicted class: {output["labels"][0]}')
 }
 ```
 
-## 📫 Contact
-
-For further information, please contact <langtech@bsc.es>.
-
 ## ⚖️ License
 
 This work is distributed under a [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
